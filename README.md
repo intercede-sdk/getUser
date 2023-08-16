@@ -55,6 +55,7 @@ Specifically, the following is suggested for this demo code:
 Install node packages with `npm install`
 
 Develop with `npm run dev`, which allows hot reloading of node.js server, and hosts a local server at http://localhost:3000
+User data can be viewed by going to http://localhost:3000/contact/3EB6F2B9-92AA-4D2D-AA79-513C41378132, where the GUID after `/contact/` is the GUID of a user in MyID.
 
 Run on server with `node index.js`
 
